@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Guess The  Celebrity</string>
+    <string name="imageView">desc</string>
+    <string name="button1"></string>
+    <string name="button2"></string>
+    <string name="button3"></string>
+    <string name="button4"></string>
+
+</resources>
